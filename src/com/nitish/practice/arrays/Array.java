@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Array {
     public static void main(String[] args) {
-        int[] arr = {3, 6 , 8 , 87 , 65 , 4 , 68 , 23 , 9 , 98 , 34};
+        int[] arr = {3, 6 , 8 , 87 , 65 , 4 , 68 , 23 , 9 , 98 , 34, 56};
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number u want to search : ");
         int num = input.nextInt();
